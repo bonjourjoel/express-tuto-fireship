@@ -1,0 +1,16 @@
+{
+  "name": "express-tuto-fireship",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=-MTSQjw5DrM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
